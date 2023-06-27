@@ -1,0 +1,37 @@
+
+
+
+.logo{
+	width: 7%;
+	height: 5%;
+}
+.size{
+	font-size: 31px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+.adimg{
+	width: 100px;
+	object-fit: contain;
+}
+.footer{
+	position: absolute;
+	bottom: 0;}
+.cart_img{
+	width: 100px;
+	height: 100px;
+	object-fit: content;
+} 
+.logox{
+	width: 3%;
+	height: 5%;
+
+}
+.prof{
+	width: 100px;
+	height: 100px;
+}
